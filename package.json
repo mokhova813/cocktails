@@ -34,5 +34,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "База напитков с возможностью поиска по: - названию - алкогольный/безалкогольный - ингредиенту + Рандомный напиток",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokhova813/cocktails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mokhova813/cocktails/issues"
+  },
+  "homepage": "https://github.com/mokhova813/cocktails#readme"
 }
