@@ -1,1 +1,1 @@
-web: node index.js
+react: npm run react-start
